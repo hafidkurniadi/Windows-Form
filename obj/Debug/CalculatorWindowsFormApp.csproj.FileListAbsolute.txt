@@ -1,0 +1,10 @@
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\P 1\CalculatorApp\CalculatorWindowsFormApp\bin\Debug\CalculatorWindowsFormApp.exe.config
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\P 1\CalculatorApp\CalculatorWindowsFormApp\bin\Debug\CalculatorWindowsFormApp.exe
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\P 1\CalculatorApp\CalculatorWindowsFormApp\bin\Debug\CalculatorWindowsFormApp.pdb
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\P 1\CalculatorApp\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.csprojAssemblyReference.cache
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\P 1\CalculatorApp\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.Form1.resources
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\P 1\CalculatorApp\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.Properties.Resources.resources
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\P 1\CalculatorApp\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.csproj.GenerateResource.cache
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\P 1\CalculatorApp\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.csproj.CoreCompileInputs.cache
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\P 1\CalculatorApp\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.exe
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\P 1\CalculatorApp\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.pdb
